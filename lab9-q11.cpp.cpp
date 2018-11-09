@@ -12,9 +12,9 @@ char c;
 
 //pointing to variables
 int *ip = &i;	
-double *d =&d;
-float *f =&f;
-char *c =&c;
+double *dp =&d;
+float *fp =&f;
+char *cp =&c;
 
 
 
